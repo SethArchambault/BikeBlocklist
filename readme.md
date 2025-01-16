@@ -4,9 +4,5 @@ This is almost a rough draft of a website, the absolute minimum I needed to get 
 
 # API
 
-Everything should have APIs! Let me know if you have any suggestions for this. (http://detroitbikeblacklist.com/feedback)[Leave Feedback]
+Everything should have APIs! Let me know if you have any suggestions for this. 
 
-Try these:
-
-    http://detroitbikeblacklist.com/api/v1/bikes
-    http://detroitbikeblacklist.com/api/v1/bikes/12
